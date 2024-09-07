@@ -1,4 +1,4 @@
-<h2>To learn more:</h2>
+<h2>To Learn More:</h2>
 <b>MLH's GitHub Repository:</b> https://github.com/monirulHaque/Database-Systems?tab=readme-ov-file#database-schema-vs-database-state
 
 <h2>Youtube Playlists:</h2>
