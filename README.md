@@ -4,15 +4,16 @@
 
 
 <h1>Related to Theory:</h1>
-<b>MLH's GitHub Repository:</b>
+
+<h3>MLH's GitHub Repository:</h3>
 
 https://github.com/monirulHaque/Database-Systems?tab=readme-ov-file#database-schema-vs-database-state
 
-<b>NNC's Youtube Playlist:</b>
+<h3>NNC's Youtube Playlist:</h3>
 
 https://www.youtube.com/playlist?list=PLbrkVe8jT_YwMhF4TWw1Q9ETFrUIYjOPM
 
-<b>W3Schools MySQL Queries:</b>
+<h3>W3Schools MySQL Queries:</h3>
 
 https://www.w3schools.com/mysql/default.asp (backdated, commands don't works)
 
