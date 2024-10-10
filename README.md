@@ -3,17 +3,15 @@
 <p>Introduction to concepts and methods for storing and manipulating data in stored form. File retrieval and organisation. Database models and designing of database systems. The principles of database management systems. Relational database management systems. Query formulation and language. Database administration. Methods used for the storage, selection and presentation of Data. Database integrity and security. Students will work with database languages and popular application packages. Common database management systems. Structure of SQL and principals behind the design of SQL.</p>
 
 
-<h2>To Learn More:</h2>
-<b>MLH's GitHub Repository:</b> https://github.com/monirulHaque/Database-Systems?tab=readme-ov-file#database-schema-vs-database-state
+<h1>Related to Theory:</h1>
+<p><b>MLH's GitHub Repository:</b> https://github.com/monirulHaque/Database-Systems?tab=readme-ov-file#database-schema-vs-database-state</p>
 
-<h2>Youtube Playlists:</h2>
-<b>NNC:</b> https://www.youtube.com/playlist?list=PLbrkVe8jT_YwMhF4TWw1Q9ETFrUIYjOPM
+<p><b>NNC's Youtube Playlist:</b> https://www.youtube.com/playlist?list=PLbrkVe8jT_YwMhF4TWw1Q9ETFrUIYjOPM</p>
 
-<h2>MySQL Queries:</h2>
-<b>W3Schools:</b> https://www.w3schools.com/mysql/default.asp (backdated, commands don't works)
+<p><b>W3Schools MySQL Queries:</b> https://www.w3schools.com/mysql/default.asp (backdated, commands don't works)</p>
 
 
-<h1>Related to Projects:</h1>
+<h1>Related to Project:</h1>
 
 <h3>Youtube Channel: freeCodeCamp.org</h3>
 https://www.youtube.com/@freecodecamp
