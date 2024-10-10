@@ -5,7 +5,6 @@
 
 <h1>Related to Theory:</h1>
 <p><b>MLH's GitHub Repository:</b>
-  
   https://github.com/monirulHaque/Database-Systems?tab=readme-ov-file#database-schema-vs-database-state</p>
 
 <p><b>NNC's Youtube Playlist:</b> https://www.youtube.com/playlist?list=PLbrkVe8jT_YwMhF4TWw1Q9ETFrUIYjOPM</p>
