@@ -4,12 +4,17 @@
 
 
 <h1>Related to Theory:</h1>
-<p><b>MLH's GitHub Repository:</b>
-  https://github.com/monirulHaque/Database-Systems?tab=readme-ov-file#database-schema-vs-database-state</p>
+<b>MLH's GitHub Repository:</b>
 
-<p><b>NNC's Youtube Playlist:</b> https://www.youtube.com/playlist?list=PLbrkVe8jT_YwMhF4TWw1Q9ETFrUIYjOPM</p>
+https://github.com/monirulHaque/Database-Systems?tab=readme-ov-file#database-schema-vs-database-state
 
-<p><b>W3Schools MySQL Queries:</b> https://www.w3schools.com/mysql/default.asp (backdated, commands don't works)</p>
+<b>NNC's Youtube Playlist:</b>
+
+https://www.youtube.com/playlist?list=PLbrkVe8jT_YwMhF4TWw1Q9ETFrUIYjOPM
+
+<b>W3Schools MySQL Queries:</b>
+
+https://www.w3schools.com/mysql/default.asp (backdated, commands don't works)
 
 
 <h1>Related to Project:</h1>
