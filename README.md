@@ -1,3 +1,8 @@
+<h1>CSE 370: Database Systems</h1>
+
+<p>Introduction to concepts and methods for storing and manipulating data in stored form. File retrieval and organisation. Database models and designing of database systems. The principles of database management systems. Relational database management systems. Query formulation and language. Database administration. Methods used for the storage, selection and presentation of Data. Database integrity and security. Students will work with database languages and popular application packages. Common database management systems. Structure of SQL and principals behind the design of SQL.</p>
+
+
 <h2>To Learn More:</h2>
 <b>MLH's GitHub Repository:</b> https://github.com/monirulHaque/Database-Systems?tab=readme-ov-file#database-schema-vs-database-state
 
