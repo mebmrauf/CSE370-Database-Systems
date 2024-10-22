@@ -2,6 +2,23 @@
 
 <p>Introduction to concepts and methods for storing and manipulating data in stored form. File retrieval and organisation. Database models and designing of database systems. The principles of database management systems. Relational database management systems. Query formulation and language. Database administration. Methods used for the storage, selection and presentation of Data. Database integrity and security. Students will work with database languages and popular application packages. Common database management systems. Structure of SQL and principals behind the design of SQL.</p>
 
+# Course Objectives
+
+1. Explain the advantages and disadvantages of using a DBMS over a file-based system
+
+2. Explain the process of data modeling using ER and EER models
+
+3. Discuss the relational integrity constraints and how they are enforced in a database system
+
+4. Teach the process of mapping an ER/EER model to a relational schema
+
+5. Introduce indexing and hashing and discuss their role in efficient data retrieval
+
+6. Explain the concepts of functional dependencies (FD) and normalization, and how they are used to optimize database design
+
+7. Teach students the methods for storing, manipulating and retrieving data using structured query language (SQL)
+
+8. Expose students to the process of implementing a complete database system project in a team using software tools, programming languages and SQL
 
 <h1>Related to Theory:</h1>
 
