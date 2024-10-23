@@ -50,6 +50,8 @@ https://www.youtube.com/@freecodecamp
 
 <b>Learn Flask --> </b> https://www.youtube.com/watch?v=Z1RJmh_OqeA
 
+<b>Introduction to Flask by [Adnan Sadi](https://github.com/adnan343)</b> https://youtube.com/playlist?list=PLZ-c2Ioh4C-QLGgdHvIBVR25l-ODh7ILb&si=UcN6OrLPqKvI-FuD
+
 <b>Learn Flask(edureka!) --> </b> https://www.youtube.com/watch?v=B4vA0_7ZrRk
 
 <h3>PHP</h3>
